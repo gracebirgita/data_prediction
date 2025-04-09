@@ -1,0 +1,101 @@
+movie_id,title,genres,description,year,avg_rating
+1,Day 1,"Action, Romance, Thriller",A epic action romance thriller movie from 1991.,1991,6.7
+2,Legend 3,"Animation, Documentary, Mystery","A inspirational, terrifying, thought-provoking animation documentary mystery movie from 1991.",1991,5.2
+3,hilarious Time,"Animation, Horror","A heartwarming, heartbreaking, suspenseful animation horror movie from 2007.",2007,7.1
+4,The Mystery of Enemy,"Mystery, Documentary","A mysterious, heartwarming, hilarious mystery documentary movie from 1990.",1990,4.7
+5,romantic Dragon,"Documentary, Adventure, Thriller","A thrilling, heartbreaking, mysterious documentary adventure thriller movie from 1996.",1996,8.5
+6,Life 1,Thriller,"A suspenseful, action-packed, romantic thriller movie from 2013.",2013,6.1
+7,suspenseful Child,"Fantasy, Mystery, Comedy","A inspirational, suspenseful fantasy mystery comedy movie from 2015.",2015,5.1
+8,The inspirational Secret,Action,"A romantic, emotional, hilarious action movie from 2022.",2022,5.9
+9,inspirational Journey,"Fantasy, Romance","A heartwarming, inspirational, emotional fantasy romance movie from 2022.",2022,4.6
+10,thought-provoking Man,Drama,"A hilarious, thrilling, heartwarming drama movie from 2001.",2001,4.2
+11,The romantic Life,Romance,A inspirational romance movie from 2013.,2013,7.4
+12,The Nightmare of Heart,"Crime, Comedy, Fantasy","A romantic, thought-provoking crime comedy fantasy movie from 2018.",2018,5.9
+13,The dramatic Agent,"Crime, Comedy, Fantasy","A dramatic, heartwarming crime comedy fantasy movie from 2011.",2011,5.3
+14,hilarious Secret 3,"Sci-Fi, Romance","A thought-provoking, suspenseful sci-fi romance movie from 2017.",2017,7.1
+15,The heartwarming Heart,Fantasy,A dramatic fantasy movie from 2011.,2011,2.8
+16,thought-provoking Mystery,"Horror, Adventure","A mysterious, heartbreaking, action-packed horror adventure movie from 2017.",2017,4.1
+17,The dramatic Queen,Fantasy,"A heartbreaking, epic, thought-provoking fantasy movie from 2023.",2023,4.6
+18,The dramatic Man,"Romance, Adventure",A heartwarming romance adventure movie from 2006.,2006,5.3
+19,Island 2,Fantasy,"A romantic, thought-provoking, mysterious fantasy movie from 2003.",2003,3.6
+20,The heartwarming Light,Adventure,A epic adventure movie from 2014.,2014,5.2
+21,heartwarming Darkness 1,Mystery,"A mysterious, inspirational mystery movie from 1995.",1995,8.0
+22,The emotional Legend,"Action, Animation, Thriller",A heartwarming action animation thriller movie from 2017.,2017,7.8
+23,The Secret of Game,"Comedy, Drama, Sci-Fi","A dramatic, epic comedy drama sci-fi movie from 2022.",2022,6.9
+24,suspenseful Dream 2,Adventure,"A epic, hilarious adventure movie from 1993.",1993,8.7
+25,The thought-provoking Mystery,"Thriller, Mystery","A emotional, inspirational thriller mystery movie from 2023.",2023,6.4
+26,The emotional Time,"Animation, Horror","A heartwarming, terrifying, emotional animation horror movie from 2000.",2000,3.3
+27,heartwarming Island 4,Fantasy,A heartwarming fantasy movie from 2023.,2023,7.1
+28,The suspenseful Detective,"Romance, Action","A heartbreaking, inspirational, epic romance action movie from 1992.",1992,5.2
+29,The thrilling Enemy,"Documentary, Fantasy","A mysterious, romantic documentary fantasy movie from 2011.",2011,4.0
+30,thought-provoking Quest 2,"Action, Adventure, Thriller","A action-packed, emotional, heartbreaking action adventure thriller movie from 1991.",1991,7.2
+31,suspenseful Mystery,"Crime, Romance","A romantic, terrifying, inspirational crime romance movie from 2000.",2000,5.2
+32,thrilling King 1,"Mystery, Horror, Thriller",A heartbreaking mystery horror thriller movie from 2000.,2000,6.8
+33,romantic Space 2,Drama,"A heartbreaking, mysterious, suspenseful drama movie from 2003.",2003,3.6
+34,Life 3,"Drama, Thriller, Sci-Fi",A action-packed drama thriller sci-fi movie from 1999.,1999,8.1
+35,Light 1,"Action, Drama, Horror","A emotional, inspirational, action-packed action drama horror movie from 1997.",1997,5.5
+36,The thought-provoking Time,Fantasy,"A romantic, heartbreaking, mysterious fantasy movie from 1990.",1990,7.8
+37,The suspenseful Ghost,"Horror, Romance, Crime",A romantic horror romance crime movie from 2013.,2013,7.1
+38,The thrilling World,"Horror, Adventure, Comedy","A action-packed, hilarious horror adventure comedy movie from 2021.",2021,6.4
+39,The Adventure of Day,Crime,"A thought-provoking, mysterious crime movie from 2021.",2021,5.0
+40,The romantic Day,"Horror, Action, Drama","A thought-provoking, dramatic, inspirational horror action drama movie from 2022.",2022,7.1
+41,suspenseful Dream,Drama,"A dramatic, hilarious, terrifying drama movie from 2019.",2019,6.1
+42,Time 2,"Horror, Animation, Drama","A action-packed, dramatic, epic horror animation drama movie from 2001.",2001,6.1
+43,epic Mission,Thriller,"A inspirational, romantic, epic thriller movie from 2000.",2000,4.9
+44,The Death of King,"Comedy, Documentary","A inspirational, thrilling comedy documentary movie from 1992.",1992,6.3
+45,terrifying Princess 1,"Horror, Comedy, Animation",A hilarious horror comedy animation movie from 2015.,2015,4.8
+46,mysterious Dream,"Horror, Mystery",A thought-provoking horror mystery movie from 1992.,1992,7.7
+47,thrilling Agent,"Documentary, Crime, Horror","A suspenseful, thought-provoking documentary crime horror movie from 2018.",2018,5.9
+48,hilarious Game,Documentary,"A emotional, romantic, thought-provoking documentary movie from 1995.",1995,4.6
+49,epic Queen 3,Comedy,"A emotional, action-packed, inspirational comedy movie from 1998.",1998,9.2
+50,inspirational King 3,"Sci-Fi, Documentary","A romantic, mysterious sci-fi documentary movie from 2023.",2023,5.1
+51,epic Darkness 4,Documentary,"A thought-provoking, epic, heartbreaking documentary movie from 2013.",2013,5.2
+52,hilarious Journey,Documentary,"A thrilling, suspenseful, romantic documentary movie from 1995.",1995,4.5
+53,The Princess of Universe,Thriller,"A emotional, terrifying, hilarious thriller movie from 2001.",2001,4.0
+54,mysterious Heart 1,"Fantasy, Adventure, Mystery","A dramatic, epic fantasy adventure mystery movie from 2009.",2009,6.1
+55,Agent 2,"Documentary, Thriller","A dramatic, suspenseful documentary thriller movie from 1992.",1992,6.5
+56,The dramatic Galaxy,"Drama, Fantasy",A romantic drama fantasy movie from 2006.,2006,6.0
+57,The epic Space,Action,A terrifying action movie from 2000.,2000,4.9
+58,The Hero of World,"Action, Crime",A heartwarming action crime movie from 2012.,2012,7.7
+59,The Game of Secret,"Romance, Action","A mysterious, suspenseful romance action movie from 2018.",2018,10.0
+60,The Woman of Death,"Mystery, Action",A emotional mystery action movie from 2007.,2007,6.6
+61,heartbreaking Warrior 1,Crime,"A heartbreaking, terrifying, emotional crime movie from 1994.",1994,4.9
+62,Adventure 2,"Fantasy, Adventure, Drama","A heartbreaking, suspenseful, dramatic fantasy adventure drama movie from 2017.",2017,3.5
+63,The Child of Mystery,Documentary,"A thrilling, suspenseful, epic documentary movie from 2020.",2020,4.7
+64,action-packed Day 1,"Mystery, Sci-Fi","A emotional, heartwarming mystery sci-fi movie from 2006.",2006,6.9
+65,emotional Shadow 4,"Thriller, Comedy","A action-packed, inspirational thriller comedy movie from 2000.",2000,5.9
+66,The emotional Detective,"Documentary, Thriller","A epic, action-packed documentary thriller movie from 1997.",1997,6.3
+67,The romantic Mystery,Mystery,"A thrilling, dramatic, mysterious mystery movie from 2012.",2012,6.4
+68,heartbreaking Light 4,"Thriller, Horror, Romance","A suspenseful, inspirational, thought-provoking thriller horror romance movie from 2019.",2019,4.7
+69,The romantic Dragon,"Comedy, Animation",A inspirational comedy animation movie from 2013.,2013,4.8
+70,emotional Man,Horror,A thought-provoking horror movie from 2002.,2002,9.0
+71,The Nightmare of Island,"Adventure, Horror",A inspirational adventure horror movie from 1995.,1995,7.9
+72,Mission 2,"Mystery, Horror",A heartbreaking mystery horror movie from 2019.,2019,4.3
+73,Adventure 4,Animation,A terrifying animation movie from 2003.,2003,6.1
+74,action-packed Secret,"Horror, Mystery","A thrilling, mysterious horror mystery movie from 2019.",2019,6.0
+75,Ghost 2,Adventure,A inspirational adventure movie from 1995.,1995,1.5
+76,Heart 3,"Comedy, Romance, Fantasy","A heartbreaking, thought-provoking comedy romance fantasy movie from 2000.",2000,6.8
+77,Quest 1,Action,"A hilarious, inspirational, dramatic action movie from 1996.",1996,7.1
+78,dramatic Enemy,Drama,"A mysterious, thrilling, suspenseful drama movie from 2000.",2000,4.6
+79,epic Friend 4,"Crime, Animation","A hilarious, inspirational crime animation movie from 1999.",1999,7.6
+80,romantic Adventure 4,Documentary,"A thought-provoking, emotional documentary movie from 2020.",2020,5.6
+81,thought-provoking Heart,Crime,A mysterious crime movie from 2003.,2003,5.9
+82,Queen 2,Romance,"A thought-provoking, action-packed romance movie from 2011.",2011,7.0
+83,emotional Dragon,"Mystery, Adventure",A romantic mystery adventure movie from 1991.,1991,3.3
+84,The Time of Space,"Drama, Adventure, Documentary","A thought-provoking, suspenseful, epic drama adventure documentary movie from 2023.",2023,6.5
+85,terrifying Princess,"Mystery, Romance","A thrilling, romantic mystery romance movie from 1993.",1993,5.5
+86,The action-packed Night,Thriller,"A mysterious, heartwarming, heartbreaking thriller movie from 2020.",2020,4.0
+87,The action-packed Life,"Adventure, Mystery, Animation","A epic, dramatic adventure mystery animation movie from 2004.",2004,7.5
+88,thrilling Island 2,"Fantasy, Sci-Fi","A emotional, mysterious fantasy sci-fi movie from 1993.",1993,8.6
+89,Love 4,Action,"A emotional, action-packed action movie from 2005.",2005,2.2
+90,dramatic Hero,"Animation, Comedy, Thriller","A heartwarming, mysterious, thought-provoking animation comedy thriller movie from 1994.",1994,7.7
+91,The heartwarming Quest,"Mystery, Crime","A dramatic, suspenseful mystery crime movie from 2006.",2006,5.9
+92,Friend 4,"Sci-Fi, Mystery, Thriller","A action-packed, emotional, heartbreaking sci-fi mystery thriller movie from 2010.",2010,8.1
+93,The Life of Man,"Action, Sci-Fi",A thrilling action sci-fi movie from 2013.,2013,6.7
+94,mysterious Stranger 3,Thriller,A epic thriller movie from 2008.,2008,4.1
+95,The Light of Mystery,Mystery,A dramatic mystery movie from 2018.,2018,7.7
+96,Galaxy 2,"Sci-Fi, Mystery",A action-packed sci-fi mystery movie from 2011.,2011,6.1
+97,The hilarious Adventure,"Adventure, Fantasy, Romance",A epic adventure fantasy romance movie from 2003.,2003,4.4
+98,heartbreaking Man 4,"Sci-Fi, Crime","A thought-provoking, heartwarming sci-fi crime movie from 1992.",1992,5.2
+99,hilarious Stranger 1,"Mystery, Adventure",A terrifying mystery adventure movie from 2019.,2019,5.9
+100,The heartbreaking Princess,"Thriller, Drama, Documentary","A emotional, mysterious, suspenseful thriller drama documentary movie from 1998.",1998,6.1
